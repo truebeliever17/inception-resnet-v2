@@ -1,2 +1,2 @@
-# inception-resnet-v2
-Implemented Google's InceptionResnetV2 Architecture
+# InceptionResnetV2
+Implementation of Google's [InceptionResnetV2](https://arxiv.org/pdf/1602.07261.pdf) Architecture using PyTorch
